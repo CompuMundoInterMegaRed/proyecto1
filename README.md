@@ -22,82 +22,19 @@ La pasarela de pago que recibe la información de la transacción del vendedor r
 
 
 
-## Recursos utilizados para llegar a la propuesta de mejora
-1 estrella
+### Recursos utilizados para llegar a la propuesta de mejora 
+Ejercicio de las [11 estrellas](11stars.md)
 
-- Que rechaze tu pago 
-- Que te descuente el dinero de latarjeta, pero rechace el pago
-- 
+El anterior ejercicio tiene como finalidad poder tener una visión del producto desde su estado actual y a dónde podría llegar. Con esto en cuenta la estrategia consiste en:
 
-2 estrellas
+- Upgrade del producto a un sistema de puntos con beneficios:
+Aunque muchas entidades bancarias ya brindan puntos por usar los servicios, el esquema de la pasarela de pagos incluiría un esquema diferente, otorgando puntos por estar inscrito y sumas adicionales por realizar transacciones. Los puntos no se redimen de forma tracicional. No se pierden puntos por redimir algun artículo o beneficio. Al alcanzar algún umbral de puntos recibe automáticamente el beneficio y sigue sumando para el siguiente. Todo esto con el fin de fomentar la consistencia en el uso del servicio ya que el usuario percibe beneficios más tangibles.
 
-- Pagas y pasan 48 a 72 horas para aplicarse
-- Que no te permita agregar más de una tarjeta
-- Cuando falla un pago, tarda 10 días en devolverte tu dinero
+- Plan de ahorro:
+La pasarela permite definir metas individuales, metas que recibirán acompañamiento con tips para lograrlos o recordatorio de los objetivos financieros, esto acompañado de recomendaciones que permitan ahorrar costos, dichas recomendaciones acompañadas de la cantidad de gente que las ha recibido, por ejemplo: "Ya que acabas de pagar tu servicio de internet, te recomendamos este plan de internet más acorde a tus necesidades. Otras 1000 personas ya lo tomaron y han ahorrado $ x los últimos 3 meses."
 
-3 estrellas
-
-- Puedes pagar pero con problemas de seguridad que crean desconfianza.
-- No tiene habilitado todos los métodos o medios de pago
-- Te bloquea la tarjeta después de un n número de compras continuas
-
-4 estrellas
-
-- No puedes elejir el método predeterminado inmediatemente
-- Personalizacion de pagos
-- Te permite comprar, pero no te entrega tu recibo inmediatamente.
-
-5 estrellas
-
-- Pagas rápido
-- Soporte para devoluciones
-- Te permite realizar pagos internacionales
-- Estados de cuenta y recibos claros
-- Tiene aplicación móvil y webapp
-- Transacciones seguras, privadas y fáciles
-- 
-
-6 estrellas
-
-- Puntos, recompensas y chashback
-- Descuentos en la copra de ciertos servicios
-- Notificaciones amigables
-- Devoluciones inmediatas de dinero sin preguntas
-- Bonificación de dinero si encientras el producto más barato en otro lugar
-- Declaraciones automáticas fiscales
-
-7 estrellas
-
-- Compras internacionales sin restricciones y seguras.
-- Plan familiar de pagos, con límites personalizados por cada miembro de la familia
-- Un día al año con 50% de descuento en todo lo que compres
-- Que cada compra que hagas se abone un porcentaje a tu plan para el retiro
-- Acceso a cursos de finanzas personales y declaraciones ante el SAT con optimización de gastos para saldo a favor
-- 
-
-8 estrellas
-
-- Análisis de compras, recomendaciones de compras más económicas en otro establecimiento
-- Que te reconozca biometricamente, entres a una tienda, tomes lo que quieras y no tengas que formarte para pagar. Y Que te llegué el cobro automáticamente.
-- Asistente virtual de Machine Learning que te ayuda a noendedudarte y maneja tus finanza
-
-9 estrellas
-
-- Al comprar u artículo, va y lo busca más barato y lo compra por ti
-- Una sola plataforma para unificar todas mis cuentas bancarias
-- Rifa anual para que te devuelvan todas tus compras del año.
-
-10 estrellas
-
-- Convertir tus dinero a cualquier cripto que quieras comprar
-- Ganas un congreso de finzanzas en un lugar paradisiaco y te atiende el dueño del banco
-
-11 estrellas
-
-- Trading automatizado en base al análisis de tus gastos invirtiendo tu dinero sobranteen lasacciones com más posibilidades de crecimiento.
-- Gastando X cantidad de dinero al mes, accedes a una asesoria personalizada con Warren Buffett 
-- Línea de crédito ilimitada para gastar no pagar después los 60 años
-
+- Minimizar el uso de lenguaje altamente corporativo y financiero:
+Este lenguaje puede causar repulsión en los usuarios ya que no se sienten identificados, lo que hace más difícil que logren comprometerse con la idea de realizar sus pagos a través de la plataforma.
 
 
 ## Referencias

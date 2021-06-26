@@ -1,4 +1,6 @@
-# Proyecto 1 - Pasarelas de Pago.
+# Proyecto Ecole
+
+# [Parte 1](https://platzi.com/clases/2335-platzi-master-ecole/38590-proyecto-1/)
 
 ## Producto seleccionado.
 
@@ -36,6 +38,7 @@ La pasarela permite definir metas individuales, metas que recibirán acompañami
 - Minimizar el uso de lenguaje altamente corporativo y financiero:
 Este lenguaje puede causar repulsión en los usuarios ya que no se sienten identificados, lo que hace más difícil que logren comprometerse con la idea de realizar sus pagos a través de la plataforma.
 
+# [Parte 2](https://platzi.com/clases/2335-platzi-master-ecole/39057-proyecto-2/)
 
 ## ¿cuál es el Job to be done?
 
@@ -59,9 +62,9 @@ Sobre la infraestructura ya existente, en primer lugar se tiene:
 Esto con el fin de reducir la resistencia y baja confiabilidad que los usuarios tienen a los serviciosfinancieros.
 
 Para lograr que el usuario adquiera beneficios económicos, la estrategia consta de:
-    - Capturar toda la información disponible de transacciones, con alto respeto de la privacidad indivudual. Esto con el objetivo de crear el piloto de recomendaciones sobre lo que otros usuarios consumen y queda evidenciado en la pasarela.
-    - Buscar empresas y llegar a acuerdos. Esto con el fin de incentivar la participación de las empresas al encontrar otro medio con el cual llegar a nuevos usuarios. Su participación queda supeditada a que los acuerdos se traduzcan como beneficios a al cliente, ya sea con ofertas más acordes a las necesidades de los consumidores o ofertas para las personas que logren mejores puntajes en la pasarela de pagos.
-    - Implementación del sistema de puntos
+- Capturar toda la información disponible de transacciones, con alto respeto de la privacidad indivudual. Esto con el objetivo de crear el piloto de recomendaciones sobre lo que otros usuarios consumen y queda evidenciado en la pasarela.
+- Buscar empresas y llegar a acuerdos. Esto con el fin de incentivar la participación de las empresas al encontrar otro medio con el cual llegar a nuevos usuarios. Su participación queda supeditada a que los acuerdos se traduzcan como beneficios a al cliente, ya sea con ofertas más acordes a las necesidades de los consumidores o ofertas para las personas que logren mejores puntajes en la pasarela de pagos.
+- Implementación del sistema de puntos
 
 
 ## Referencias
